@@ -3,9 +3,12 @@
 //
 
 #include "Passage.h"
+#include "Room.h"
+#include "NullRoom.h"
 
 #include <utility>
 #include "PassageDefaultEnterCommand.h"
+#include <memory>
 
 std::string Passage::oppositeDirection(const std::string &s) {
     if (s == "north") return "south";
@@ -20,7 +23,7 @@ std::string Passage::oppositeDirection(const std::string &s) {
 }
 
 void Passage::createBasicPassage(Room* from, Room* to,
-                                 const std::string &direction, bool bidirectional = true) {
+                                 const std::string &direction, bool bidirectional) {
     std::string passageName = from->getName() + "_to_" + to->getName();
     auto temp1 = std::make_shared<Passage>(passageName, "A totally normal passageway.", from, to);
     from->addPassage(direction, temp1);

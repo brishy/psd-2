@@ -4,6 +4,7 @@
 
 #include "Passage.h"
 #include "PassageDefaultEnterCommand.h"
+#include "Room.h"    //<<< ADD THIS LINE
 
 void PassageDefaultEnterCommand::execute() {
     static_cast<Passage*>(gameObject)->getTo()->enter();

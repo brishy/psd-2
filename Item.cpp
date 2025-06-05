@@ -5,6 +5,7 @@
 #include "Item.h"
 
 #include <utility>
+#include <memory>
 
 Item::Item(const std::string &n, const std::string &d) : GameObject(n, d),
                                                          useCommand(std::make_shared<NullCommand>()) {}

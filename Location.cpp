@@ -3,7 +3,7 @@
 //
 
 #include "Location.h"
-
+#include <memory>
 Location::Location(const std::string &n, const std::string &d) : GameObject(n, d),
                                                                  enterCommand(std::make_shared<NullCommand>()) {}
 

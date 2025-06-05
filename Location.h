@@ -1,4 +1,4 @@
-//
+//Location.h
 // Created by Richard Skarbez on 5/7/23.
 //
 
@@ -8,7 +8,7 @@
 #include "Command.h"
 #include "GameObject.h"
 #include "NullCommand.h"
-
+#include <memory>
 class Location : public GameObject {
 public:
     Location(const std::string &, const std::string &);
