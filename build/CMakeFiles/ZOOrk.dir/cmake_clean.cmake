@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/ZOOrk.dir/Character.cpp.obj"
+  "CMakeFiles/ZOOrk.dir/Character.cpp.obj.d"
+  "CMakeFiles/ZOOrk.dir/Door.cpp.obj"
+  "CMakeFiles/ZOOrk.dir/Door.cpp.obj.d"
+  "CMakeFiles/ZOOrk.dir/GameObject.cpp.obj"
+  "CMakeFiles/ZOOrk.dir/GameObject.cpp.obj.d"
+  "CMakeFiles/ZOOrk.dir/Item.cpp.obj"
+  "CMakeFiles/ZOOrk.dir/Item.cpp.obj.d"
+  "CMakeFiles/ZOOrk.dir/Location.cpp.obj"
+  "CMakeFiles/ZOOrk.dir/Location.cpp.obj.d"
+  "CMakeFiles/ZOOrk.dir/NullCommand.cpp.obj"
+  "CMakeFiles/ZOOrk.dir/NullCommand.cpp.obj.d"
+  "CMakeFiles/ZOOrk.dir/NullPassage.cpp.obj"
+  "CMakeFiles/ZOOrk.dir/NullPassage.cpp.obj.d"
+  "CMakeFiles/ZOOrk.dir/NullRoom.cpp.obj"
+  "CMakeFiles/ZOOrk.dir/NullRoom.cpp.obj.d"
+  "CMakeFiles/ZOOrk.dir/Passage.cpp.obj"
+  "CMakeFiles/ZOOrk.dir/Passage.cpp.obj.d"
+  "CMakeFiles/ZOOrk.dir/PassageDefaultEnterCommand.cpp.obj"
+  "CMakeFiles/ZOOrk.dir/PassageDefaultEnterCommand.cpp.obj.d"
+  "CMakeFiles/ZOOrk.dir/Player.cpp.obj"
+  "CMakeFiles/ZOOrk.dir/Player.cpp.obj.d"
+  "CMakeFiles/ZOOrk.dir/Room.cpp.obj"
+  "CMakeFiles/ZOOrk.dir/Room.cpp.obj.d"
+  "CMakeFiles/ZOOrk.dir/RoomDefaultEnterCommand.cpp.obj"
+  "CMakeFiles/ZOOrk.dir/RoomDefaultEnterCommand.cpp.obj.d"
+  "CMakeFiles/ZOOrk.dir/ZOOrkEngine.cpp.obj"
+  "CMakeFiles/ZOOrk.dir/ZOOrkEngine.cpp.obj.d"
+  "CMakeFiles/ZOOrk.dir/main.cpp.obj"
+  "CMakeFiles/ZOOrk.dir/main.cpp.obj.d"
+  "ZOOrk.exe"
+  "ZOOrk.exe.manifest"
+  "ZOOrk.pdb"
+  "libZOOrk.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/ZOOrk.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

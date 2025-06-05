@@ -1,0 +1,92 @@
+[
+{
+  "directory": "D:/CSE3PSD/ZOOrk/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\ZOOrk.dir\\main.cpp.obj -c D:\\CSE3PSD\\ZOOrk\\main.cpp",
+  "file": "D:/CSE3PSD/ZOOrk/main.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/CSE3PSD/ZOOrk/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\ZOOrk.dir\\Item.cpp.obj -c D:\\CSE3PSD\\ZOOrk\\Item.cpp",
+  "file": "D:/CSE3PSD/ZOOrk/Item.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/Item.cpp.obj"
+},
+{
+  "directory": "D:/CSE3PSD/ZOOrk/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\ZOOrk.dir\\Character.cpp.obj -c D:\\CSE3PSD\\ZOOrk\\Character.cpp",
+  "file": "D:/CSE3PSD/ZOOrk/Character.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/Character.cpp.obj"
+},
+{
+  "directory": "D:/CSE3PSD/ZOOrk/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\ZOOrk.dir\\Location.cpp.obj -c D:\\CSE3PSD\\ZOOrk\\Location.cpp",
+  "file": "D:/CSE3PSD/ZOOrk/Location.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/Location.cpp.obj"
+},
+{
+  "directory": "D:/CSE3PSD/ZOOrk/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\ZOOrk.dir\\GameObject.cpp.obj -c D:\\CSE3PSD\\ZOOrk\\GameObject.cpp",
+  "file": "D:/CSE3PSD/ZOOrk/GameObject.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/GameObject.cpp.obj"
+},
+{
+  "directory": "D:/CSE3PSD/ZOOrk/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\ZOOrk.dir\\Room.cpp.obj -c D:\\CSE3PSD\\ZOOrk\\Room.cpp",
+  "file": "D:/CSE3PSD/ZOOrk/Room.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/Room.cpp.obj"
+},
+{
+  "directory": "D:/CSE3PSD/ZOOrk/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\ZOOrk.dir\\Passage.cpp.obj -c D:\\CSE3PSD\\ZOOrk\\Passage.cpp",
+  "file": "D:/CSE3PSD/ZOOrk/Passage.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/Passage.cpp.obj"
+},
+{
+  "directory": "D:/CSE3PSD/ZOOrk/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\ZOOrk.dir\\Door.cpp.obj -c D:\\CSE3PSD\\ZOOrk\\Door.cpp",
+  "file": "D:/CSE3PSD/ZOOrk/Door.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/Door.cpp.obj"
+},
+{
+  "directory": "D:/CSE3PSD/ZOOrk/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\ZOOrk.dir\\NullRoom.cpp.obj -c D:\\CSE3PSD\\ZOOrk\\NullRoom.cpp",
+  "file": "D:/CSE3PSD/ZOOrk/NullRoom.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/NullRoom.cpp.obj"
+},
+{
+  "directory": "D:/CSE3PSD/ZOOrk/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\ZOOrk.dir\\NullCommand.cpp.obj -c D:\\CSE3PSD\\ZOOrk\\NullCommand.cpp",
+  "file": "D:/CSE3PSD/ZOOrk/NullCommand.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/NullCommand.cpp.obj"
+},
+{
+  "directory": "D:/CSE3PSD/ZOOrk/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\ZOOrk.dir\\Player.cpp.obj -c D:\\CSE3PSD\\ZOOrk\\Player.cpp",
+  "file": "D:/CSE3PSD/ZOOrk/Player.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/Player.cpp.obj"
+},
+{
+  "directory": "D:/CSE3PSD/ZOOrk/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\ZOOrk.dir\\RoomDefaultEnterCommand.cpp.obj -c D:\\CSE3PSD\\ZOOrk\\RoomDefaultEnterCommand.cpp",
+  "file": "D:/CSE3PSD/ZOOrk/RoomDefaultEnterCommand.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/RoomDefaultEnterCommand.cpp.obj"
+},
+{
+  "directory": "D:/CSE3PSD/ZOOrk/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\ZOOrk.dir\\ZOOrkEngine.cpp.obj -c D:\\CSE3PSD\\ZOOrk\\ZOOrkEngine.cpp",
+  "file": "D:/CSE3PSD/ZOOrk/ZOOrkEngine.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/ZOOrkEngine.cpp.obj"
+},
+{
+  "directory": "D:/CSE3PSD/ZOOrk/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\ZOOrk.dir\\PassageDefaultEnterCommand.cpp.obj -c D:\\CSE3PSD\\ZOOrk\\PassageDefaultEnterCommand.cpp",
+  "file": "D:/CSE3PSD/ZOOrk/PassageDefaultEnterCommand.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/PassageDefaultEnterCommand.cpp.obj"
+},
+{
+  "directory": "D:/CSE3PSD/ZOOrk/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\ZOOrk.dir\\NullPassage.cpp.obj -c D:\\CSE3PSD\\ZOOrk\\NullPassage.cpp",
+  "file": "D:/CSE3PSD/ZOOrk/NullPassage.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/NullPassage.cpp.obj"
+}
+]
